@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+    printf("Sujith\n");
+    printf("21\n");
+    printf("EEE");
+    return 0;
+    
+}
